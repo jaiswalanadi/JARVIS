@@ -1,0 +1,20 @@
+#  pip install *library_name*
+
+import pip
+#pip.main(['install','pyttsx3'])
+#pip.main(['install','speechRecognition'])
+#pip.main(['install','PyAudio'])
+#pip.main(['install','wikipedia'])
+#pip.main(['install','pywhatkit'])
+#pip.main(['install','webbrowser'])
+#pip.main(['install','requests'])
+#pip.main(['install','bs4'])
+#pip.main(['install','pyautogui'])
+#pip.main(['install','pynput'])
+#pip.main(['install','wolframalpha'])
+#pip.main(['install','plyer'])
+#pip.main(['install','speedtest-cli'])
+#pip.main(['install','pillow'])
+#pip.main(['install','matplotlib'])
+#pip.main(['install','googletrans'])
+#pip.main(['install','gtts'])
